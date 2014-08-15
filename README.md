@@ -4,7 +4,7 @@ MSc Course IN4303 on Compiler Construction at TU Delft
 
 ## Course Contents   
 
-Compilers translate the source code of programs in a high-level programming language into executable (virtual) machine code. Nowadays, compilers are typically integrated into development environments providing features like syntax highlighting, content assistance, live error reporting, and continuous target code generation. This course is about the efficient construction of compilers and their integration in the IDE. It consists of three parts:
+Compilers translate the source code of programs in a high-level programming language into executable (virtual) machine code. Nowadays, compilers are typically integrated into development environments providing features like syntax highlighting, content assistance, live error reporting, and continuous target code generation. This course is about the efficient construction of compilers and their integration in the IDE. Its [lectures](https://github.com/TUDelft-IN4303/lectures) are organised in three parts:
 
 The first part focuses on declarative specification of compiler components as supported by state-of-the-art tools for compiler construction, including lexical syntax, context-free syntax, static semantics, and code generation.
 
@@ -12,7 +12,7 @@ In the second part, we address techniques for the compilation of imperative and 
 
 The third part takes a closer look on the inside working of compiler components and their generators. In particular, we study parsing algorithms and parser generation.
 
-The practical work consists of constructing a compiler for a small object-oriented language using the tools introduced in the first part of the course.
+In the [practical work](https://github.com/TUDelft-IN4303/assignments), students construct a compiler for a small object-oriented language using the tools introduced in the first part of the lectures.
 
 ## Expected Prior Knowledge   
 
