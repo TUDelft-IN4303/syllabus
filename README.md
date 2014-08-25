@@ -26,3 +26,7 @@ In the [practical work](https://github.com/TUDelft-IN4303/assignments), students
 * to be able to construct a compiler from such specifications with state-of-the-art compiler construction tools
 * to understand different language aspects
 * to understand the working of compiler components realising these aspects
+
+## Textbook
+
+* Andrew W. Appel, Jens Palsberg: *Modern Compiler Implementation in Java*, 2nd edition. Cambridge University Press, 2002.
